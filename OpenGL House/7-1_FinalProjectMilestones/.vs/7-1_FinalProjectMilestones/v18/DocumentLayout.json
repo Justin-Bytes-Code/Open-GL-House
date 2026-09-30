@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\MainCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|solutionrelative:Source\\MainCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainCode.cpp",
+              "DocumentMoniker": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\MainCode.cpp",
+              "RelativeDocumentMoniker": "Source\\MainCode.cpp",
+              "ToolTip": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\MainCode.cpp",
+              "RelativeToolTip": "Source\\MainCode.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAxwEgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-30T19:03:46.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

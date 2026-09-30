@@ -1,5 +1,7 @@
-﻿  Generating code
-  Previous IPDB was built with incompatible compiler, fall back to full compilation.
-  All 561 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+﻿  MainCode.cpp
+  Generating code
+  2 of 559 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  7-1_FinalProjectMilestones.vcxproj -> C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Release\7-1_FinalProjectMilestones.exe
+  7-1_FinalProjectMilestones.vcxproj -> D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\Release\7-1_FinalProjectMilestones.exe

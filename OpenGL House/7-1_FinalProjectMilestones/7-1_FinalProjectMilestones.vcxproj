@@ -11,22 +11,47 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\3DShapes\ShapeMeshes.cpp" />
-    <ClCompile Include="..\..\Utilities\ShaderManager.cpp" />
+    <ClCompile Include="CS330Content\3DShapes\ShapeMeshes.cpp" />
+    <ClCompile Include="CS330Content\Utilities\ShaderManager.cpp" />
     <ClCompile Include="Source\MainCode.cpp" />
     <ClCompile Include="Source\SceneManager.cpp" />
     <ClCompile Include="Source\ViewManager.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CS330Content\3DShapes\ShapeMeshes.h" />
+    <ClInclude Include="CS330Content\Utilities\camera.h" />
+    <ClInclude Include="CS330Content\Utilities\linmath.h" />
+    <ClInclude Include="CS330Content\Utilities\ShaderManager.h" />
+    <ClInclude Include="CS330Content\Utilities\stb_image.h" />
     <ClInclude Include="Source\SceneManager.h" />
     <ClInclude Include="Source\ViewManager.h" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="CS330Content\Utilities\textures\abstract.jpg" />
+    <Image Include="CS330Content\Utilities\textures\backdrop.jpg" />
+    <Image Include="CS330Content\Utilities\textures\breadcrust.jpg" />
+    <Image Include="CS330Content\Utilities\textures\cheddar.jpg" />
+    <Image Include="CS330Content\Utilities\textures\cheese_top.jpg" />
+    <Image Include="CS330Content\Utilities\textures\cheese_wheel.jpg" />
+    <Image Include="CS330Content\Utilities\textures\circular-brushed-gold-texture.jpg" />
+    <Image Include="CS330Content\Utilities\textures\drywall.jpg" />
+    <Image Include="CS330Content\Utilities\textures\gold-seamless-texture.jpg" />
+    <Image Include="CS330Content\Utilities\textures\knife_handle.jpg" />
+    <Image Include="CS330Content\Utilities\textures\pavers.jpg" />
+    <Image Include="CS330Content\Utilities\textures\rusticwood.jpg" />
+    <Image Include="CS330Content\Utilities\textures\stainedglass.jpg" />
+    <Image Include="CS330Content\Utilities\textures\stainless.jpg" />
+    <Image Include="CS330Content\Utilities\textures\stainless_end.jpg" />
+    <Image Include="CS330Content\Utilities\textures\tilesf2.jpg" />
     <Image Include="Source\Textures\Brick.jpg" />
     <Image Include="Source\Textures\DarkWood.jpg" />
     <Image Include="Source\Textures\Glass.jpeg" />
     <Image Include="Source\Textures\Grass.jpg" />
     <Image Include="Source\Textures\Roof.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CS330Content\Utilities\shaders\fragmentShader.glsl" />
+    <None Include="CS330Content\Utilities\shaders\vertexShader.glsl" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
@@ -85,14 +110,14 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\..\Libraries\GLFW\include;..\..\Libraries\GLEW\include;..\..\Libraries\glm;..\..\Utilities;..\..\3DShapes;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\CS330Content\Libraries\GLFW\include;D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\CS330Content\Libraries\GLEW\include;D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\CS330Content\Libraries\glm;D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\CS330Content\Utilities;D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\CS330Content\3DShapes;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>..\..\Libraries\GLEW\lib\Release\Win32;..\..\Libraries\GLFW\lib-vc2022;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\CS330Content\Libraries\GLEW\lib\Release\Win32;D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\CS330Content\Libraries\GLFW\lib-vc2022;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glew32.lib;glfw3.lib;opengl32.lib;glu32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>

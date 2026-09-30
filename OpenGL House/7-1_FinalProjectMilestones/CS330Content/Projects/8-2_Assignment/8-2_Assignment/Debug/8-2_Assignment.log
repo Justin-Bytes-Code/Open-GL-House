@@ -1,0 +1,55 @@
+﻿  MainCode.cpp
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Utilities\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Utilities\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Utilities\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Utilities\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Utilities\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Utilities\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'Source/MainCode.cpp')
+      C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Libraries\GLFW\include\GLFW\glfw3.h(123,11):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(13,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(61,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(66,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(67,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(68,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(83,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(84,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(167,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(182,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(182,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(182,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(183,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(183,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(183,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(184,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(184,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(185,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(185,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(185,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(186,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(186,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(186,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(188,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(188,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(202,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(227,2): warning C4551: function call missing argument list
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(259,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(259,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(259,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(259,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  8-2_Assignment.vcxproj -> C:\Users\barkb\OneDrive\Desktop\School Work\Graphic and Visualization\CS330Content\CS330Content\Projects\8-2_Assignment\Debug\8-2_Assignment.exe

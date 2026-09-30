@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\3DShapes\ShapeMeshes.cpp">
-      <Filter>Source Files\3D Shapes</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Utilities\ShaderManager.cpp">
-      <Filter>Source Files\Utilities</Filter>
-    </ClCompile>
     <ClCompile Include="Source\MainCode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -30,6 +24,8 @@
     <ClCompile Include="Source\ViewManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CS330Content\3DShapes\ShapeMeshes.cpp" />
+    <ClCompile Include="CS330Content\Utilities\ShaderManager.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\SceneManager.h">
@@ -38,6 +34,11 @@
     <ClInclude Include="Source\ViewManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CS330Content\3DShapes\ShapeMeshes.h" />
+    <ClInclude Include="CS330Content\Utilities\ShaderManager.h" />
+    <ClInclude Include="CS330Content\Utilities\linmath.h" />
+    <ClInclude Include="CS330Content\Utilities\camera.h" />
+    <ClInclude Include="CS330Content\Utilities\stb_image.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Source\Textures\Brick.jpg" />
@@ -45,5 +46,25 @@
     <Image Include="Source\Textures\Grass.jpg" />
     <Image Include="Source\Textures\Roof.jpg" />
     <Image Include="Source\Textures\Glass.jpeg" />
+    <Image Include="CS330Content\Utilities\textures\tilesf2.jpg" />
+    <Image Include="CS330Content\Utilities\textures\abstract.jpg" />
+    <Image Include="CS330Content\Utilities\textures\backdrop.jpg" />
+    <Image Include="CS330Content\Utilities\textures\breadcrust.jpg" />
+    <Image Include="CS330Content\Utilities\textures\cheddar.jpg" />
+    <Image Include="CS330Content\Utilities\textures\cheese_top.jpg" />
+    <Image Include="CS330Content\Utilities\textures\cheese_wheel.jpg" />
+    <Image Include="CS330Content\Utilities\textures\circular-brushed-gold-texture.jpg" />
+    <Image Include="CS330Content\Utilities\textures\drywall.jpg" />
+    <Image Include="CS330Content\Utilities\textures\gold-seamless-texture.jpg" />
+    <Image Include="CS330Content\Utilities\textures\knife_handle.jpg" />
+    <Image Include="CS330Content\Utilities\textures\pavers.jpg" />
+    <Image Include="CS330Content\Utilities\textures\rusticwood.jpg" />
+    <Image Include="CS330Content\Utilities\textures\stainedglass.jpg" />
+    <Image Include="CS330Content\Utilities\textures\stainless.jpg" />
+    <Image Include="CS330Content\Utilities\textures\stainless_end.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CS330Content\Utilities\shaders\fragmentShader.glsl" />
+    <None Include="CS330Content\Utilities\shaders\vertexShader.glsl" />
   </ItemGroup>
 </Project>

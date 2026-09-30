@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Graphic and Visualization\\CS330Content\\CS330Content\\Projects\\8-2_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|8-2_Assignment.vcxproj|C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Graphic and Visualization\\CS330Content\\CS330Content\\Projects\\8-2_Assignment\\Source\\MainCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|8-2_Assignment.vcxproj|solutionrelative:Source\\MainCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainCode.cpp",
+              "DocumentMoniker": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Graphic and Visualization\\CS330Content\\CS330Content\\Projects\\8-2_Assignment\\Source\\MainCode.cpp",
+              "RelativeDocumentMoniker": "Source\\MainCode.cpp",
+              "ToolTip": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Graphic and Visualization\\CS330Content\\CS330Content\\Projects\\8-2_Assignment\\Source\\MainCode.cpp",
+              "RelativeToolTip": "Source\\MainCode.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-20T15:43:11.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
