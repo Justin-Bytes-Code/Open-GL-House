@@ -1,7 +1,11 @@
-﻿  MainCode.cpp
+﻿  SceneManager.cpp
+D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\Source\SceneManager.cpp(221,16): warning C4018: '<': signed/unsigned mismatch
+D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\Source\SceneManager.cpp(456,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\Source\SceneManager.cpp(468,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\Source\SceneManager.cpp(830,23): warning C4305: 'argument': truncation from 'double' to 'float'
   Generating code
   2 of 559 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    8 functions had inline decision re-evaluated but remain unchanged
+    9 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   7-1_FinalProjectMilestones.vcxproj -> D:\Repos\Justin\Open-GL-House\OpenGL House\7-1_FinalProjectMilestones\Release\7-1_FinalProjectMilestones.exe

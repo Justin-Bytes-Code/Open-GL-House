@@ -2,9 +2,7 @@
 // viewmanager.h
 // ============
 // manage the viewing of 3D objects within the viewport
-//
-//  AUTHOR: Brian Battersby - SNHU Instructor / Computer Science
-//	Created for CS-330-Computational Graphics and Visualization, Nov. 1st, 2023
+//	Created for CS-330-Computational Graphics and Visualization
 ///////////////////////////////////////////////////////////////////////////////
 
 #include "ViewManager.h"

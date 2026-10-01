@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|solutionrelative:Source\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\ViewManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|solutionrelative:Source\\ViewManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\MainCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|solutionrelative:Source\\MainCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainCode.cpp",
               "DocumentMoniker": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\MainCode.cpp",
               "RelativeDocumentMoniker": "Source\\MainCode.cpp",
               "ToolTip": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\MainCode.cpp",
               "RelativeToolTip": "Source\\MainCode.cpp",
-              "ViewState": "AgIAAC4AAAAAAAAAAIAxwEgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAswLkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-30T19:03:46.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewManager.cpp",
+              "DocumentMoniker": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\ViewManager.cpp",
+              "RelativeDocumentMoniker": "Source\\ViewManager.cpp",
+              "ToolTip": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\ViewManager.cpp",
+              "RelativeToolTip": "Source\\ViewManager.cpp",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAswAwBAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-01T22:19:22.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "Source\\SceneManager.cpp",
+              "ToolTip": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\SceneManager.cpp",
+              "RelativeToolTip": "Source\\SceneManager.cpp",
+              "ViewState": "AgIAAPYCAAAAAAAAAAAswAIDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-01T22:19:20.489Z",
               "EditorCaption": ""
             }
           ]

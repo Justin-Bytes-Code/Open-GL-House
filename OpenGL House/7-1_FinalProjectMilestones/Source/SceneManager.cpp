@@ -1,10 +1,8 @@
 ///////////////////////////////////////////////////////////////////////////////
 // shadermanager.cpp
 // ============
-// manage the loading and rendering of 3D scenes
-//
-//  AUTHOR: Brian Battersby - SNHU Instructor / Computer Science
-//	Created for CS-330-Computational Graphics and Visualization, Nov. 1st, 2023
+//  Manage the loading and rendering of 3D scenes
+//	Created for CS-330-Computational Graphics and Visualization
 ///////////////////////////////////////////////////////////////////////////////
 
 #include "SceneManager.h"
@@ -708,15 +706,15 @@ void SceneManager::RenderPrisms()
 	/*** Set needed transformations before drawing the basic mesh ***/
 
 	// set the XYZ scale for the mesh
-	scaleXYZ = glm::vec3(6.0f, 7.0f, 2.0f);
+	scaleXYZ = glm::vec3(6.5f, 6.0f, 2.0f);
 
 	// set the XYZ rotation for the mesh
-	XrotationDegrees = 270.0f;
-	YrotationDegrees = 0.0f;
-	ZrotationDegrees = -65.0f;
+	XrotationDegrees = 270.0f; // 270
+	YrotationDegrees = -0.0f; //0
+	ZrotationDegrees = -70.0f; // 65 
 
 	// set the XYZ position for the mesh
-	positionXYZ = glm::vec3(-4.5f, 5.0, 2.5f);
+	positionXYZ = glm::vec3(-4.0f, 5.0, 2.5f);
 
 	// set the transformations into memory to be used on the drawn meshes
 	SetTransformations(
@@ -772,7 +770,7 @@ void SceneManager::RenderPrisms()
 	/*** Set needed transformations before drawing the basic mesh ***/
 
 	// set the XYZ scale for the mesh
-	scaleXYZ = glm::vec3(5.0f, 6.0f, 2.0f);
+	scaleXYZ = glm::vec3(6.5f, 6.0f, 2.0f);
 
 	// set the XYZ rotation for the mesh
 	XrotationDegrees = 270.0f;
@@ -780,7 +778,7 @@ void SceneManager::RenderPrisms()
 	ZrotationDegrees = -70.0f;
 
 	// set the XYZ position for the mesh
-	positionXYZ = glm::vec3(1.0f, 7.0, 1.0f);
+	positionXYZ = glm::vec3(1.0f, 8.0, -1.5f);
 
 	// set the transformations into memory to be used on the drawn meshes
 	SetTransformations(
