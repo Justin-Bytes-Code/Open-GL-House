@@ -13,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\MainCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|solutionrelative:Source\\MainCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\CS330Content\\Utilities\\shaders\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|solutionrelative:CS330Content\\Utilities\\shaders\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\CS330Content\\Utilities\\shaders\\fragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FEC5411D-16FC-4489-BE83-8F69CD3C9837}|7-1_FinalProjectMilestones.vcxproj|solutionrelative:CS330Content\\Utilities\\shaders\\fragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vertexShader.glsl",
+              "DocumentMoniker": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\CS330Content\\Utilities\\shaders\\vertexShader.glsl",
+              "RelativeDocumentMoniker": "CS330Content\\Utilities\\shaders\\vertexShader.glsl",
+              "ToolTip": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\CS330Content\\Utilities\\shaders\\vertexShader.glsl",
+              "RelativeToolTip": "CS330Content\\Utilities\\shaders\\vertexShader.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-01T23:41:32.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fragmentShader.glsl",
+              "DocumentMoniker": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\CS330Content\\Utilities\\shaders\\fragmentShader.glsl",
+              "RelativeDocumentMoniker": "CS330Content\\Utilities\\shaders\\fragmentShader.glsl",
+              "ToolTip": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\CS330Content\\Utilities\\shaders\\fragmentShader.glsl",
+              "RelativeToolTip": "CS330Content\\Utilities\\shaders\\fragmentShader.glsl",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAxwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-01T23:41:10.837Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,10 +64,9 @@
               "RelativeDocumentMoniker": "Source\\MainCode.cpp",
               "ToolTip": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\MainCode.cpp",
               "RelativeToolTip": "Source\\MainCode.cpp",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAswLkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAswKwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-30T19:03:46.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T19:03:46.424Z"
             },
             {
               "$type": "Document",
@@ -45,10 +76,9 @@
               "RelativeDocumentMoniker": "Source\\ViewManager.cpp",
               "ToolTip": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\ViewManager.cpp",
               "RelativeToolTip": "Source\\ViewManager.cpp",
-              "ViewState": "AgIAAAcBAAAAAAAAAAAswAwBAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAIAxwDkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-01T22:19:22.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T22:19:22.041Z"
             },
             {
               "$type": "Document",
@@ -58,7 +88,7 @@
               "RelativeDocumentMoniker": "Source\\SceneManager.cpp",
               "ToolTip": "D:\\Repos\\Justin\\Open-GL-House\\OpenGL House\\7-1_FinalProjectMilestones\\Source\\SceneManager.cpp",
               "RelativeToolTip": "Source\\SceneManager.cpp",
-              "ViewState": "AgIAAPYCAAAAAAAAAAAswAIDAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJ0DAAAAAAAAAAAIwMMDAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-01T22:19:20.489Z",
               "EditorCaption": ""

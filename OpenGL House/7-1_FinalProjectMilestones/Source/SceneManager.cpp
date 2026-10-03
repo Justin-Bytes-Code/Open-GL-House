@@ -489,7 +489,7 @@ void SceneManager::SetupSceneLights()
 
 	//Adds White
 	m_pShaderManager->setVec3Value("lightSources[0].position", 0.0f, 10.0f, -40.0f);
-	m_pShaderManager->setVec3Value("lightSources[0].ambientColor", 0.1f, 0.1f, 0.1f);
+	m_pShaderManager->setVec3Value("lightSources[0].ambientColor", 0.1f, 0.1f, 0.1f); // 0.1 all
 	m_pShaderManager->setVec3Value("lightSources[0].diffuseColor", 0.5f, 0.5f, 0.5f);
 	m_pShaderManager->setVec3Value("lightSources[0].specularColor", 0.2f, 0.2f, 0.2f);
 	m_pShaderManager->setFloatValue("lightSources[0].focalStrength", 32.0f);
